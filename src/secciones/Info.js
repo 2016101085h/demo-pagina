@@ -15,7 +15,7 @@ const Info = () => {
   };
   return (
     <div>
-       <section id="download" className="download-area pt-70 pb-40">
+       <section id="preguntas" className="download-area pt-70 pb-40">
         <div className="container">
             <div className="row justify-content-center align-items-center">
                 <div className="col-lg-6 col-md-9">

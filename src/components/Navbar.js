@@ -11,7 +11,7 @@ const Navbar = () => {
                     <div className="col-lg-12 px-md-5  pt-md-3">
                         <nav className="navbar navbar-expand-lg">
                             <a className="navbar-brand" href="index.html">
-                                <img src="images/logo.png" alt="Logo"/>
+                                <img src="images/logo-runaban.png" alt="Logo"/>
                             </a>
                             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span className="toggler-icon"></span>
@@ -28,10 +28,10 @@ const Navbar = () => {
                                         <a className="page-scroll" href="#why">Solicitar Préstamo</a>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="page-scroll" href="#features">Por qué Nosotros</a>
+                                        <a className="page-scroll" href="#about">Por qué Nosotros</a>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="page-scroll" href="#screenshots">Preguntas Frecuentes</a>
+                                        <a className="page-scroll" href="#preguntas">Preguntas Frecuentes</a>
                                     </li>
                                     <li className="nav-item pb-2">
                                         <Link to="/login"><Button variant="outlined" color='warning'>Iniciar Sesión</Button></Link>

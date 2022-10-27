@@ -23,7 +23,7 @@ const Footer = () => {
                     <div className="col-lg-4 col-md-6">
                         <div className="footer-about mt-50 wow fadeIn" data-wow-duration="1.3s" data-wow-delay="0.2s">
                             <a className="logo" href="#" >
-                                <img src="images/logo.png" alt="Logo"/>
+                                <img src="images/logo-runaban.png" alt="Logo"/>
                             </a>
                             <p className="text">Lorem ipsum dolor sit amet consetetur sadipscing elitr, sederfs diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
                             <ul className="social">
@@ -44,12 +44,12 @@ const Footer = () => {
                                     <li><a className="" href="#">Inicio</a></li>
                                     <li><a className="" href="#">Solicitar Prestamo</a></li>
                                     <li><a className="" href="#">Nosotros</a></li>
-                                    <li><a className="" href="#">Pricing</a></li>
-                                    <li><a className="" href="#">Contact</a></li>
+                                    <li><a className="" href="#">Preguntas Frecuentes</a></li>
+                                    <li><a className="" href="#">Contacto</a></li>
                                 </ul>
                             </div> 
                             
-                            <div className="footer-link-wrapper mt-45 wow fadeIn" data-wow-duration="1.3s" data-wow-delay="0.6s">
+                            {/* <div className="footer-link-wrapper mt-45 wow fadeIn" data-wow-duration="1.3s" data-wow-delay="0.6s">
                                 <div className="footer-title">
                                     <h4 className="title">Support</h4>
                                 </div>
@@ -60,7 +60,7 @@ const Footer = () => {
                                     <li><a className="" href="#">Legal</a></li>
                                     <li><a className="" href="#">Site Map</a></li>
                                 </ul>
-                            </div> 
+                            </div>  */}
                         </div> 
                     </div>
                     <div className="col-lg-3 col-md-6">
@@ -110,7 +110,7 @@ const Footer = () => {
                     <div className="col-lg-12">
                         <div className="copyright d-sm-flex justify-content-between">
                             <div className="copyright-text text-center">
-                                <p className="text">Derechos reservados por <a rel="nofollow" href="https://uideck.com">Inkamaps</a></p>
+                                <p className="text">Derechos reservados por <a rel="nofollow" href="/">Runaban</a></p>
                             </div> 
                             
                             <div className="copyright-privacy text-center">
